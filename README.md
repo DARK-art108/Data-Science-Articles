@@ -17,6 +17,10 @@ Best Data Science Medium ,Analytics Vidya ,TDS Articles :)
 
 * [Loading Unlabeled Images Using ImageDataGen](https://kylewbanks.com/blog/loading-unlabeled-images-with-imagedatagenerator-flowfromdirectory-keras)
 
+# Yaml-Kubernetes Pods Creation
+
+* [Yaml Basics](https://www.mirantis.com/blog/introduction-to-yaml-creating-a-kubernetes-deployment/)
+
 
 
 
